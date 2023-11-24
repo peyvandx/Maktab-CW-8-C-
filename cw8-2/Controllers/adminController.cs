@@ -16,7 +16,9 @@ namespace cw8_2.Controllers
 
         public static string _personsPath = Path.Combine(Directory.GetCurrentDirectory(), "personsFilePath.txt");
 
-        UserService _userService = new UserService(_personsPath, _productFilePath);
+        public static string _currentUserPath = Path.Combine(Directory.GetCurrentDirectory(), "currentUserPath.txt");
+
+        UserService _userService = new UserService(_personsPath, _productFilePath, _currentUserPath);
 
         AdminService _adminService = new AdminService(_productFilePath, _personsPath);
 

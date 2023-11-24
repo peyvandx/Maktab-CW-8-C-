@@ -16,7 +16,7 @@ namespace cw8_2.Controllers
 
         public static string _currentUserPath = Path.Combine(Directory.GetCurrentDirectory(), "currentUserPath.txt");
 
-        UserService _userService = new UserService(_personsPath, _productFilePath);
+        UserService _userService = new UserService(_personsPath, _productFilePath, _currentUserPath);
   
         [HttpPost]
         [Route("Register")]
