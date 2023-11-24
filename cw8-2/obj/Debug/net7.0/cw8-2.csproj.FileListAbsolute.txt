@@ -1,0 +1,102 @@
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.exe
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.deps.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.runtimeconfig.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.pdb
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.AssemblyReference.cache
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfoInputs.cache
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfo.cs
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CoreCompileInputs.cache
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.cw8-2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.build.cw8-2.props
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cw8-2.props
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cw8-2.props
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\scopedcss\bundle\cw8-2.styles.css
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CopyComplete
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
+C:\Users\mobocomputer\Downloads\cw8-2 (3)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.Development.json
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.json
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.exe
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.deps.json
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.runtimeconfig.json
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.pdb
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\c#\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.AssemblyReference.cache
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfoInputs.cache
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfo.cs
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CoreCompileInputs.cache
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cs
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cache
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.cw8-2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.build.cw8-2.props
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cw8-2.props
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cw8-2.props
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.build.json
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.development.json
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\scopedcss\bundle\cw8-2.styles.css
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CopyComplete
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.dll
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
+E:\c#\cw8-2 (3)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\appsettings.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.exe
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.deps.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.runtimeconfig.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\cw8-2.pdb
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.cw8-2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.build.cw8-2.props
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cw8-2.props
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cw8-2.props
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\scopedcss\bundle\cw8-2.styles.css
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Telegram Desktop\cw8-2_102940\cw8-2 (3)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
