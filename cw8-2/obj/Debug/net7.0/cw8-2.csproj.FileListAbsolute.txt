@@ -202,3 +202,37 @@ D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
 D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
 D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
 D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\appsettings.Development.json
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\appsettings.json
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.exe
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.deps.json
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.runtimeconfig.json
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.pdb
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.AssemblyReference.cache
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfoInputs.cache
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfo.cs
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CoreCompileInputs.cache
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.cw8-2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.build.cw8-2.props
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cw8-2.props
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cw8-2.props
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.pack.json
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.build.json
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.development.json
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\scopedcss\bundle\cw8-2.styles.css
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CopyComplete
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.dll
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
+E:\New folder (2)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
