@@ -45,8 +45,32 @@ namespace cw8_2.Controllers
             return Ok(product);
         }
 
+        [HttpPost]
+        [Route("DeleteProduct")]
+
+        public IActionResult DeleteProduct(string id)
+        {
+            //try
+            //{
+            //    _adminService.DeleteProduct(id);
+            //    return Ok();
+            //}
+            //catch (Exception ex)
+            //{
+            //    return BadRequest(ex.Message);
+            //}
+            if (_adminService.DeleteProduct(id))
+            {
+                return Ok();
+            }
+            else
+            {
+                return BadRequest();
+            }
+        }
 
 
 
     }
+
 }

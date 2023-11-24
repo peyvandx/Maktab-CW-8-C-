@@ -10,9 +10,11 @@ namespace cw8_2.Controllers
     [Route("[controller]")]
     public class HomeController : ControllerBase
     {
-       public static string _productFilePath = Path.Combine(Directory.GetCurrentDirectory(), "productsFilePath.txt");
+        public static string _productFilePath = Path.Combine(Directory.GetCurrentDirectory(), "productsFilePath.txt");
 
-       public static string _personsPath = Path.Combine(Directory.GetCurrentDirectory(), "personsFilePath.txt");
+        public static string _personsPath = Path.Combine(Directory.GetCurrentDirectory(), "personsFilePath.txt");
+
+        public static string _currentUserPath = Path.Combine(Directory.GetCurrentDirectory(), "currentUserPath.txt");
 
         UserService _userService = new UserService(_personsPath, _productFilePath);
   

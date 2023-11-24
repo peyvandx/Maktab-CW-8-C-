@@ -1,4 +1,5 @@
 {"$type":"cw8_2.Entities.Product, cw8-2","Name":"kafsh","Price":8000.0,"OffPrese":1000.0,"Id":null,"IsDeleted":false}
 {"$type":"cw8_2.Entities.Product, cw8-2","Name":"bag","Price":3000.0,"OffPrese":1500.0,"Id":null,"IsDeleted":false}
 {"$type":"cw8_2.Entities.Product, cw8-2","Name":"coat","Price":4000.0,"OffPrese":2000.0,"Id":null,"IsDeleted":false}
-{"$type":"cw8_2.Entities.Product, cw8-2","Name":"boot","Price":1000.0,"OffPrese":500.0,"Id":"2cc9c613-c573-4766-a74e-55b67108bf1b","IsDeleted":false}
+{"$type":"cw8_2.Entities.Product, cw8-2","Name":"boot","Price":1000.0,"OffPrese":500.0,"Id":"2cc9c613-c573-4766-a74e-55b67108bf1b","IsDeleted":true}
+{"$type":"cw8_2.Entities.Product, cw8-2","Name":"sibZamini","Price":30000.0,"OffPrese":1000.0,"Id":"83e33389-56d8-462c-9c96-89a8e40f3989","IsDeleted":false}

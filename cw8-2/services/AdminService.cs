@@ -111,7 +111,7 @@ namespace cw8_2.services
 
         }
 
-        public bool DeleteProduct(string id) =>_productRepository.Delete(id);
+        public bool DeleteProduct(string id) => _productRepository.Delete(id);
 
 
 
