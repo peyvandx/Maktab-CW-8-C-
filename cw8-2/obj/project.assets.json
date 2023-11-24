@@ -513,19 +513,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\ali\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Maktab\\Git\\cw8-2\\cw8-2.csproj",
+      "projectUniqueName": "D:\\maktab sharif\\New folder (2)\\cw8-2\\cw8-2.csproj",
       "projectName": "cw8-2",
-      "projectPath": "D:\\C#\\Maktab\\Git\\cw8-2\\cw8-2.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Maktab\\Git\\cw8-2\\obj\\",
+      "projectPath": "D:\\maktab sharif\\New folder (2)\\cw8-2\\cw8-2.csproj",
+      "packagesPath": "C:\\Users\\ali\\.nuget\\packages\\",
+      "outputPath": "D:\\maktab sharif\\New folder (2)\\cw8-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -533,7 +533,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\Asus\\Desktop\\SafirUi\\Safir GUI\\packages\\newtonsoft.json": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -584,7 +583,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,6 +17,12 @@ namespace cw8_2.Controllers
         public static string _currentUserPath = Path.Combine(Directory.GetCurrentDirectory(), "currentUserPath.txt");
 
         UserService _userService = new UserService(_personsPath, _productFilePath, _currentUserPath);
+
+        public HomeController()
+        {
+
+        }
+
   
         [HttpPost]
         [Route("Register")]
@@ -32,6 +38,7 @@ namespace cw8_2.Controllers
                 Role=new Role() {RoleId=1,Title="client"}   
             };
             _userService.Register(person);
+            _userService.UpdateCurrentUser(person);
             return Ok(person);
         }
 
@@ -40,8 +47,11 @@ namespace cw8_2.Controllers
         public IActionResult Login(LoginDTO login)
         {
             Person person = _userService.Login(login.FullName,login.Password);
+            _userService.UpdateCurrentUser(person);
             return Ok(person);
         }
+
+        
 
 
     }

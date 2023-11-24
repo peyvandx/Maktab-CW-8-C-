@@ -168,3 +168,37 @@ D:\C#\Maktab\Git\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
 D:\C#\Maktab\Git\cw8-2\obj\Debug\net7.0\cw8-2.pdb
 D:\C#\Maktab\Git\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
 D:\C#\Maktab\Git\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\appsettings.Development.json
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\appsettings.json
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.exe
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.deps.json
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.runtimeconfig.json
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\cw8-2.pdb
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\maktab sharif\New folder (2)\cw8-2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.AssemblyReference.cache
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfoInputs.cache
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.AssemblyInfo.cs
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CoreCompileInputs.cache
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cs
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.MvcApplicationPartsAssemblyInfo.cache
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.cw8-2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.build.cw8-2.props
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cw8-2.props
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cw8-2.props
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.build.json
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\staticwebassets.development.json
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\scopedcss\bundle\cw8-2.styles.css
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.csproj.CopyComplete
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.dll
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\refint\cw8-2.dll
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.pdb
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\cw8-2.genruntimeconfig.cache
+D:\maktab sharif\New folder (2)\cw8-2\obj\Debug\net7.0\ref\cw8-2.dll
