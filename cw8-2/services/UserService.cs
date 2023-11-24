@@ -40,7 +40,6 @@ namespace cw8_2.services
             return _persons.FirstOrDefault(x => x.FullName == fullName && x.Password == password);
         }
 
-
         public void Register(Person person)
         {
 
